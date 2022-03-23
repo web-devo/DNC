@@ -1,0 +1,22 @@
+html {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+    body {
+    background-color: rgba(58, 58, 58, 0.74);
+    color: white
+}
+a {
+    display: inline-block;
+    width: 120px  ;
+    height: 40px;
+    border-radius: 8px ;
+    -webkit-box-shadow: 0 0 10px rgb(172, 172, 172);
+    box-shadow: 0 0 10px rgb(133, 133, 133);
+    background-color: rgb(241, 241, 241);
+    color: rgb(41, 40, 40);
+    text-decoration: none;
+    margin: 15px;
+}
+span {
+    color: red;
+    font-weight: bold;
+}
